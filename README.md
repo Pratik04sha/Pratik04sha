@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik04sha
 - 👀 I’m interested in Java Programming Language
-- 🌱 I’m currently learning Data Structures and Algorithms, Database Management System and Web Development
+- 🌱 I’m currently learning Data Structures and Algorithms, Database Management System and App Development
 - 💞️ I’m looking to collaborate on Web development(Front- end)
 - 📫 How to reach me pratik04sha@gmail.com
 
