@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratik04sha
-- 💻 Software Developer with 2.8+ years of experience building scalable enterprise applications in the Retirement Services domain.
+- 💻 Software Developer with 3+ years of experience building scalable enterprise applications in the Retirement Services domain.
 - 🚀 Passionate about Backend Development, System Design, Cloud Technologies, and Full-Stack Engineering.
 - 🌱 Currently sharpening my skills in Data Structures & Algorithms, Microservices Architecture, System Design, Docker, Kubernetes, AWS, and Java 17.
 - 💞️ I primarily work with Java, Spring Boot, Angular, MongoDB, REST APIs, Microservices, Apache Camel, JUnit, Cucumber, Jenkins, Git, OpenShift, Docker, Kubernetes, and AWS.
